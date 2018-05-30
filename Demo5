@@ -1,0 +1,18 @@
+class Demo5{
+
+public static void main(String [] args){
+
+}
+
+}
+
+class Pizza{
+String ingredient;
+
+Pizza(ingredient){
+this.ingredient = ingredient; 
+
+}
+
+}
+
